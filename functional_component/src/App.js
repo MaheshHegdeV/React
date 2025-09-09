@@ -11,10 +11,11 @@ class App extends Component{
   return (
     <div className="App">
       <Greet>Hello</Greet>
-      <welcome>Hello</welcome>
+      <welcome>Hello mahesh</welcome>
     </div>
   );
 }
+
 }
 
 export default App;
